@@ -1,0 +1,1 @@
+hashcat -m 0 -a 0 98783f71dded2b0c3e843da348b26f8e C:\Users\Admin\CODE\trinam\leaked_pass\WORDLIST\VN\ALL_TXT\MINE\ALL_PASSWORD_V2.txt

@@ -1,0 +1,16 @@
+**/__pycache__/
+env
+samples/disk_E.image.001
+
+wordlist_samples
+wordlist_samples_full
+
+/*.rar
+src/app/static/backend/
+
+samples/hash_file/28M_zing_MD5_unique_lower.txt
+samples/hash_file/7M_MD5_unique.txt
+src/app/static/*
+!src/app/static/backend_temp_output.txt
+!src/app/static/backend_temp_step.txt
+!src/app/static/hashcat_temp_output.txt

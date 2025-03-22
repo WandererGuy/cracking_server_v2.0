@@ -1,0 +1,173 @@
+1. Exercise as Stimulus
+* Combining Strength & Hypertrophy
+- Strength -> How much weight can be lifted
+- Strength is specific to each exercise
+- Trainees must practice the lift they want to get stronger at
+- Implement the exercise you want to get stronger at:
++ Use top sets for strength & back-off sets + accessory lift for hypertrophy
++ Strength & hypertrophy are highly compatible
++ Hypertrophy training increase muscle size
++ Strength training increase neural efficiency
+------
+2. Complete Programming and Periodization for Maximum Strength | How to Write a Strength Program
+VD: Back Squat
+- 20 weeks -> 4 block -> 5 weeks/1 block:
++ Block 1 (W1 - W5): 6 - 10 reps
++ Block 2 (W6 - W10): 4 - 8 reps
++ Block 3 (W11 - W15): 2 - 6 reps
++ Block 4 (W16 - W20): 1 - 4 reps
+- Intensity recommendations:
++ Further from peak: lighter loads
++ Closer to peak: heavier loads
+- Volume recommendations:
++ Hypertrophy emphasis: higher volume
++ Neural efficiency: lower volume
+- Accumulation progression: Increase volume, maintain intensity
+- Intensification progression: Increase strength, maintain volume
+- Realisation progression: Increase intensity, decreasing volume
+- Role of assistance exercises:
++ More volume for primary muscles = more muscle growth
+- Assistance exercises recommendations:
++ Joint friendly
++ 8+ reps
++ No specific movement pattern
++ Hypertrophy progression
+------
+3. How important are 'Effective reps' for muscle growth?
+* What are 'effective rep'?
+- Last few reps of a set are what stimulates muscle growth
+- Reps performed earlier in the set do little/ nothing for muscle growth
+- Typically, the last 5 reps are considered the 'effective reps'
+* Proximity to failure
+- Training closer to failure usually results in greater muscle growth
+* Volume vs Intensity
+- Effective reps model would predict intensity to be more important than volume
+- Fewer set closer to failure -> more sets further from failure
+* Rest periods:
+- Longer rest periods allow superior lifting performance on subsequent sets
+- Shorter rest periods still accumulate just as many 'effective reps'
+- Even when 'effective reps' are equated, longer rest periods produce greater growth
+* Rep range:
+- Light (> 15 RM) / Moderate (9-15 RM) / Heavy (<= 8 RM)
+- Lighter Loads: 
++ More important to train closer to failure
++ 'Effective reps' don't start until the muscle is highly fatigued
+- Heavy loads: 
++ Less benefit for training very close to failure
++ Already closer to failure from the beginning of the set
+* Metabolite techniques:
+- Drop sets:
++ Drop sets are effective for building muscle
++ Doesn't significantly inhibit the hypertrophic stimulus
+- Rest-pause/ myo reps:
++ Performing reps closer to failure seems to be more hypertrophic
++ Supports the effective reps model
+- Pre-fatigue
+* Practical recommendations:
+- Training closer to failure results in superior growth
+- Reps closer to failure might be more hypertrophic than reps further from failure:
++ More important when training with lighter loads & higher rep ranges
+------
+4. Surplus for muscle growth?
+- A surplus is not mandatory for muscle growth
+- Hypertrophy can occur at maintenance or a calorie deficit
+- A surplus is probably required to maximise muscle growth
+- Surplus: 250-500 kcal/day
+------
+5. Deficit for fat loss
+- A calorie deficit is required for significant fat loss
+- Aim to lose weight while preserving muscle mass
+------
+6. Rate of weight loss
+- Slower weight loss may promote greater muscle retention
+- Faster weight loss allows us to enter maintenance/surplus sooner
+------
+7. Fat loss guide
+- Weight loss is not the ultimate goal
+- Fat loss is the ultimate goal
+* Nutrition vs Training:
+- Nutrition & Training are both required to maximise fat loss
+- Both are important to change body composition
+* Rate of weight loss:
+- Slower weight loss is generally more sustainable
+* Protein intake:
+- Influences muscle growth/retention
+- Increase protein intakes are generally superior
+- Protein intake can help with muscle retention during a calorie deficit
+- Protein intake doesn't stimulate muscle growth
+- Resistance training stimulate muscle growth
+- Protein intake can assist the muscle growth response
+- A high protein intake during a deficit can promote muscle growth/retention
+- Aim to consume at least 1.5g / kg / day
+* Resistance training:
+- Provides the stimulus for muscle hypertrophy
+* Type of resistance training
+- Focus on hypertrophy-style training:
++ Will help retain as much muscle as possible
++ 6 - 20 rep range
++ High Volume 
++ Close proximity to failure
+* Cardio/Physical activity
+- Contributes to greater overall energy expenditure
+- Not the primary contributor to a calorie deficit (can assist the calorie deficit)
+- Can be quantified using daily step counts
+- At least ~7500 steps per day
+- More physical activity will be additionally beneficial
+- > 15000 steps may not be worth the time & energy
+* How much physical activity:
+- Step count: 0 - 5000 (Low)
+- Step count: 5000 - 10000 (Moderate)
+- Step count: 10000 - 15000 (High)
+- Step count: 15000+ (Very High)
+* Practical recommendations
+- Fat loss:
++ Weight loss
++ Muscle growth/retention
+- Nutritional Strategies:
++ Calorie deficit
++ High protein intake
+- Training strategies:
++ Hypertrophy-focussed resistance training
++ Moderate-high physical activity level
+------
+8. How to reduce calorie intake without tracking
+* Energy balance
+- Reducing calorie intake has a more direct effect on ergy balance
+- Increasing exercise has less direct effect on energy balance
+* Bodyweight tracking
+- Increase satiety from high-volume foods:
++ Include fruit & vegetables in each meals
+- Protein intake:
+- High protein diets are usually more satiating
+- Likely due to increase satiety & decrease hunger
+- Consume a minimum of ~1.5g/kg/day
+* Intuitive/mindful eating
+- Using inherent hunger/satiety signals to regulate eating behavior:
++ Only eat when you are hungry
++ Eat until you are satiated but not overly full
++ Helps us eat based on actual energy needs
+* Exercise:
+- Exercise helps regulate hunger & satiety signals:
++ High physical activity levels help us feel more satieted after eating & less hungry throughout the day
++ Includes weight-training & all other forms of movement
+------
+9. Methods of progressing hypertrophy training / Sets, Reps & RPE
+- Progressive overload for muscle hypertrophy
++ More reps
++ More sets
++ More weight
+- Method 1: Increasing Sets => Next mesocycle: increase reps; increase load
+- Method 2: Increasing Reps (repeat for 2-3 mesocycles or until plateaued) => Increase Load; change exercise
+- When plateaued => Change Load; Change exercise
+------
+10. Method of progressing hypertrophy training | from week to week
+- Increasing reps:
++ Maintain sets and load
++ Increase total number of reps performed per exercise
+- Increasing volume:
++ Increase volume by 1-2 sets per muscle group, per week
++ Increase amount of stimulus each muscle group receives
+------
+11. Complete exercise selection for hypertrophy training
+- No mandatory exercises for hypertrophy training
+- Aim to increase stimulus & decrease fatigue

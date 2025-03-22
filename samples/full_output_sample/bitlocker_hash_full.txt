@@ -1,0 +1,49 @@
+Encrypted device C:/disk_E.image.001 opened, size 2048MB
+
+Signature found at 0x1000003
+Version: 8
+Invalid version, looking for a signature with valid version...
+
+Signature found at 0x928f000
+Version: 2 (Windows 7 or later)
+
+VMK entry found at 0x928f0ba
+
+VMK encrypted with User Password found at 928f0dc
+VMK encrypted with AES-CCM
+UP Nonce: 304d0e8d3b42db0103000000
+UP MAC: 62f40ba443b06227dfcbad4fdef53701
+UP VMK: bd8d5da7682dfb02eb01c14e7675f7b7399f727d1d543ersion...
+
+Signature found at 0x928f000
+Version: 2 (Windows 7 or later)
+
+VMK entry found at 0x928f0ba
+
+VMK encrypted with User Password found at 928f0dc    
+VMK encrypted with AES-CCM
+UP Nonce: 304d0e8d3b42db0103000000
+UP MAC: 62f40ba443b06227dfcbad4fdef53701
+UP VMK: bd8d5da7682dfb02eb01c14e7675f7b7399f727d1d543a36d59d1edbef411116cf1dbce50964dd292c07636a
+
+
+VMK entry found at 0x928f19a
+
+VMK encrypted with Recovery Password found at 0x928f1bc
+Salt: f133ec9c9f815a3b5fb845ed02c08c27
+Searching AES-CCM from 0x928f1d8
+Trying offset 0x928f26b....
+VMK encrypted with AES-CCM!!
+RP Nonce: 304d0e8d3b42db0106000000
+RP MAC: 03d6b543448f442be29f325cd7f9a9cf
+RP VMK: ce5b6855070656e21fc2feadc19d4737a2aec9a1ea74a0dfec51b9197698d87d26b8fa3cd31f0efd1a2949b0
+
+
+User Password hash:
+$bitlocker$0$16$a8f23fed61f772d5b4097d76d3d421c0$1048576$12$304d0e8d3b42db0103000000$60$62f40ba443b06227dfcbad4fdef53701bd8d5da7682dfb02eb01c14e7675f7b7399f727d1d543a36d59d1edbef411116cf1dbce50964dd292c07636a    
+Hash type: User Password with MAC verification (slower solution, no false positives)
+$bitlocker$1$16$a8f23fed61f772d5b4097d76d3d421c0$1048576$12$304d0e8d3b42db0103000000$60$62f40ba443b06227dfcbad4fdef53701bd8d5da7682dfb02eb01c14e7675f7b7399f727d1d543a36d59d1edbef411116cf1dbce50964dd292c07636a    
+Hash type: Recovery Password fast attack
+$bitlocker$2$16$f133ec9c9f815a3b5fb845ed02c08c27$1048576$12$304d0e8d3b42db0106000000$60$03d6b543448f442be29f325cd7f9a9cfce5b6855070656e21fc2feadc19d4737a2aec9a1ea74a0dfec51b9197698d87d26b8fa3cd31f0efd1a2949b0    
+Hash type: Recovery Password with MAC verification (slower solution, no false positives)
+$bitlocker$3$16$f133ec9c9f815a3b5fb845ed02c08c27$1048576$12$304d0e8d3b42db0106000000$60$03d6b543448f442be29f325cd7f9a9cfce5b6855070656e21fc2feadc19d4737a2aec9a1ea74a0dfec51b9197698d87d26b8fa3cd31f0efd1a2949b0    

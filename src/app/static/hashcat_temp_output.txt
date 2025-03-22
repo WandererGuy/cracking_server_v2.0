@@ -1,0 +1,19 @@
+Session..........: bc381645-0d24-4901-af17-04a371c3c5bb
+Status...........: Running
+Hash.Mode........: 13000 (RAR5)
+Hash.Target......: $rar5$16$3d72442f611a0034e658ecbb6f61e5ca$15$3281b4...ed8bc2
+Time.Started.....: Sat Mar 22 17:15:39 2025 (22 mins, 43 secs)
+Time.Estimated...: Mon Mar 24 07:19:02 2025 (1 day, 13 hours)
+Kernel.Feature...: Pure Kernel
+Guess.Base.......: File (C:/Users/Admin/CODE/work/PASSWORD_CRACK/TarGuess-I-main/static/generated_target_wordlist/6854ebd1-8732-4989-a406-0d61850a8c0f.txt)
+Guess.Mod........: Rules (C:\Users\Admin\CODE\work\PASSWORD_CRACK\cracking_server_v1.0\samples\rule_sample\clem9669_small.rule)
+Guess.Queue......: 1/1 (100.00%)
+Speed.#1.........:    18440 H/s (21.24ms) @ Accel:256 Loops:64 Thr:32 Vec:1
+Recovered........: 0/1 (0.00%) Digests (total), 0/1 (0.00%) Digests (new)
+Progress.........: 25001984/2526258735 (0.99%)
+Rejected.........: 0/25001984 (0.00%)
+Restore.Point....: 0/6561711 (0.00%)
+Restore.Sub.#1...: Salt:0 Amplifier:109-110 Iteration:16640-16704
+Candidate.Engine.: Device Generator
+Candidates.#1....: FFFFFl -> qweXl
+Hardware.Mon.#1..: Temp: 73c Fan: 68% Util: 99% Core:1897MHz Mem:7300MHz Bus:16
