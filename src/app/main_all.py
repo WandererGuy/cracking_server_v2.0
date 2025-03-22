@@ -97,7 +97,10 @@ def stage_3(session_name, hash_value_file, session_excel_path):
     return hashcat_hash_code
 
 
-def stage_4(file_path, file_type, targuess_train_result_refined_path):
+def stage_4(file_path, 
+            file_type, 
+            targuess_train_result_refined_path, 
+            backend_payload):
     # file_path =  r'C:\Users\Admin\CODE\work\PASSWORD_CRACK\cracking_server_v1.0\samples\extract_hash_files\123456789.rar'
     # file_type =  "RAR5"
     session_name = stage_1()
@@ -113,14 +116,14 @@ def stage_4(file_path, file_type, targuess_train_result_refined_path):
     payload = {'session_name': session_name,
     'hash_file': hash_value_file,
     'hashcat_hash_code': hashcat_hash_code,
-    'additional_wordlist': '',
-    'full_name': '',
-    'birth': '',
-    'email': '',
-    'account_name': '',
-    'id_num': '',
-    'phone': '',
-    'other_keywords': '',
+    'additional_wordlist': backend_payload['additional_wordlist'],
+    'full_name': backend_payload['full_name'],
+    'birth': backend_payload['birth'],
+    'email': backend_payload['email'],
+    'account_name': backend_payload['account_name'],
+    'id_num': backend_payload['id_num'],
+    'phone': backend_payload['phone'],
+    'other_keywords': backend_payload['other_keywords'],
     'targuess_train_result_refined_path': targuess_train_result_refined_path}
     files=[
 
@@ -129,20 +132,39 @@ def stage_4(file_path, file_type, targuess_train_result_refined_path):
 
     response = requests.request("POST", url, headers=headers, data=payload, files=files)
 
-    if response.json()["status_code"] != 200:
+    if int(response.json()["status_code"]) != 200:
         raise MyHTTPException(status_code=response.json()["status_code"] , message=response.json()["message"] )
 
-    return response
+    return reply_success(message = "Success", result = response.json()["result"])
 
 @app.post("/unlock-archive")
 async def unlock_archive(    
     file_path: str = Form(...),
     file_type: str = Form(...),
     targuess_train_result_refined_path : str = Form(...),
+    additional_wordlist: str = Form(None),
+    full_name: str = Form(None),
+    birth: str = Form(None),
+    email: str = Form(None),
+    account_name: str = Form(None),
+    id_num: str = Form(None),
+    phone: str = Form(None),
+    other_keywords: str = Form(None)
 ):
+    backend_payload = {
+        "full_name": full_name,
+        "birth": birth,
+        "email": email,
+        "account_name": account_name,
+        "id_num": id_num,
+        "phone": phone,
+        "additional_wordlist": additional_wordlist,
+        "other_keywords": other_keywords
+    }
     return stage_4(file_path=file_path, 
                    file_type=file_type, 
-                   targuess_train_result_refined_path = targuess_train_result_refined_path)
+                   targuess_train_result_refined_path = targuess_train_result_refined_path,
+                   backend_payload = backend_payload)
     
 
 

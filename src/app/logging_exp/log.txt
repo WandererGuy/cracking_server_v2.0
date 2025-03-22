@@ -5,3 +5,10 @@ cracked 0 hashes
 
 
 CRACKING HASH WITH TARGET WORDLIST  (WITH SMALL RULE)
+cracked 0 hashes
+
+
+CRACKING HASH WITH SMALL TRAWLING WORDLIST  (NO RULE)
+cracked 1 hashes
+
+
