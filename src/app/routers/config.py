@@ -3,16 +3,16 @@ in src\app\routers\backend\crack_only_hash.py
 """
 
 flow_component = {
-    'target_wl': 0,
-    'target_wl_small_rule': 0,
+    'target_wl': 1,
+    'target_wl_small_rule': 1,
     'small_trawling_wl': 1,
     'small_trawling_wl_small_rule': 1,
     'big_trawling_wl': 1,
     'big_trawling_wl_small_rule': 1,
-    'small_target_ml': 0,
-    'small_target_ml_small_rule': 0,
-    'big_target_ml': 0,
-    'big_target_ml_small_rule': 0,
+    'small_target_ml': 1,
+    'small_target_ml_small_rule': 1,
+    'big_target_ml': 1,
+    'big_target_ml_small_rule': 1,
     'small_trawling_ml': 1,
     'small_trawling_ml_small_rule': 1,
     'big_trawling_ml': 1,
